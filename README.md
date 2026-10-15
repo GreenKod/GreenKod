@@ -5,7 +5,7 @@ I'm an 11th-grade high school student at **Yahya Kaptan Anatolian High School**,
 ---
 
 ### 🔭 What I'm Currently Working On
-- 🦀 Developing **SnifferLauncher** in Rust.
+- 🦀 Developing **[SnifferLauncher](https://github.com/GreenKod/snifferlauncher)** in Rust.
 - 🐧 Building custom Linux automation scripts, terminal tools, and desktop workflows.
 
 ---
@@ -13,22 +13,25 @@ I'm an 11th-grade high school student at **Yahya Kaptan Anatolian High School**,
 ### 🛠️ Tech Stack & Tools
 
 **Languages:**
-- `Rust`
-- `TypeScript`
-- `JavaScript`
-- `Python`
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Systems & Environments:**
-- `Linux (Custom Kernels & CLI)`
-- `Nushell / Bash / Fish`
-- `Git / Worktrees`
-- `CI/CD & GitHub Actions`
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-**Prototyping & CAD:**
-- `3D Printing & Mechanical CAD`
-- `FreeCAD`
-- `OrcaSlicer`
-- `Microcontrollers (ESP32)`
+`Nushell` · `Fish` · `Git Worktrees` · Custom Linux kernels and CLI tools
+
+**Hardware & CAD Tools:**
+![3D Printing](https://img.shields.io/badge/3D_Printing-FF6F00?style=for-the-badge&logo=makerbot&logoColor=white)
+![FreeCAD](https://img.shields.io/badge/FreeCAD-CB333B?style=for-the-badge&logo=freecad&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+
+`OrcaSlicer`
 
 ---
 
@@ -40,7 +43,7 @@ I'm an 11th-grade high school student at **Yahya Kaptan Anatolian High School**,
 
 ### 📊 GitHub Activity
 <p align="center">
-  <a href="https://github.com/GreenKod">View my GitHub activity</a> · <a href="https://github.com/GreenKod?tab=repositories">Explore my repositories</a>
+  <a href="https://github.com/GreenKod">Profile</a> · <a href="https://github.com/GreenKod?tab=repositories">Repositories</a>
 </p>
 
 <p align="center">
@@ -69,5 +72,4 @@ I'm an 11th-grade high school student at **Yahya Kaptan Anatolian High School**,
 ---
 
 ### 📫 Connect With Me
-- ✉️ Email: [greenkod.dev@gmail.com](mailto:greenkod.dev@gmail.com)
-- 🌐 GitHub: [@GreenKod](https://github.com/GreenKod)
+✉️ [Email](mailto:greenkod.dev@gmail.com) · 🌐 [GitHub](https://github.com/GreenKod)
