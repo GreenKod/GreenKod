@@ -1,6 +1,11 @@
 name: Generate Snake
 
 on:
+  push:
+    branches:
+      - master
+    paths-ignore:
+      - "assets/**"
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
@@ -14,16 +19,6 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
-
-      - name: Set up Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 20
-
-      - name: Generate GitHub stats cards
-        run: node scripts/generate-stats.mjs
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate contribution snake
         uses: Platane/snk@v3
