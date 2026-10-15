@@ -29,7 +29,7 @@ I'm an 11th-grade high school student at **Yahya Kaptan Anatolian High School**,
 <img src="https://img.shields.io/badge/3D_Printing-FF6F00?style=for-the-badge&logo=makerbot&logoColor=white" alt="3D Printing">
 <img src="https://img.shields.io/badge/FreeCAD-CB333B?style=for-the-badge&logo=freecad&logoColor=white" alt="FreeCAD">
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32">
-<code>OrcaSlicer</code></p>
+<img src="https://img.shields.io/badge/OrcaSlicer-E87932?style=for-the-badge" alt="OrcaSlicer"></p>
 
 ---
 
